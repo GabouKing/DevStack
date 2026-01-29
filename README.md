@@ -1,6 +1,6 @@
 # DevStack Portfolio
 
-Portfólio profissional desenvolvido com Next.js 14, totalmente internacionalizado e responsivo, seguindo as melhores práticas de desenvolvimento moderno.
+Portfólio profissional desenvolvido com Next.js, totalmente internacionalizado e responsivo, seguindo as melhores práticas de desenvolvimento moderno.
 
 ## 📋 Índice
 
