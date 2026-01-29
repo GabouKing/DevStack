@@ -1,0 +1,89 @@
+{
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "subtitle": "Enter your credentials to access your developer portfolio",
+
+    "email": {
+      "label": "Email",
+      "placeholder": "name@company.com"
+    },
+
+    "password": {
+      "label": "Password",
+      "forgot": "Forgot password?",
+      "show": "Show password",
+      "hide": "Hide password"
+    },
+
+    "signIn": "Sign In",
+
+    "orContinueWith": "Or continue with",
+
+    "github": "GitHub",
+
+    "noAccount": "Don't have an account?",
+    "signUpFree": "Sign up for free"
+  },
+
+  "header": {
+    "newHere": "New here?",
+    "createAccount": "Create Account",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hire":"Hire Me"
+  },
+
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "helpCenter": "Help Center",
+    "title":"All rights reserved"    
+  },
+
+  "about": {
+    "title":"About Me",
+    "techKnowledge":"Stack Knowledge",
+    "download":"Download Resume",
+    "year":"Years Exp",
+    "projects":"Projects"
+  },
+  "Projects": {
+    "title": "Projects",
+    "items": {
+      "portfolio": "Personal portfolio built with Next.js and Tailwind CSS, showcasing curated projects and technical expertise.",
+      "ecommerce": "E-commerce platform concept with secure checkout, product catalog and payment integration.",
+      "dashboard": "Analytics dashboard with real-time metrics and clean visualizations for business insights."
+    }
+  },
+  "notFound":{
+    "button":"Back to Begin",
+    "title":"Page currently under construction, available soon.",
+    "subtitle":"It seems you've reached a digital void. Don't worry, our engineers are building this bridge as we speak."
+  },
+  "contact": {
+    "title": {
+      "line1": "Let's build the",
+      "line2": "future together."
+    },
+    "description": "Have a project in mind or just want to say hi? I'm always open to discussing new opportunities and creative ideas.",
+    "email": {
+      "label": "Email"
+    },
+    "location": {
+      "label": "Location",
+      "value": "San Francisco, CA"
+    },
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Project Inquiry",
+      "message": "Your Message",
+      "messagePlaceholder": "How can I help you?",
+      "submit": "Send Message"
+    }
+  }
+}

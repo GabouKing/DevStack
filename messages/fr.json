@@ -1,0 +1,93 @@
+{
+  "auth": {
+    "welcomeBack": "Bon retour",
+    "subtitle": "Entrez vos identifiants pour accéder à votre portfolio de développeur",
+
+    "email": {
+      "label": "E-mail",
+      "placeholder": "nom@entreprise.com"
+    },
+
+    "password": {
+      "label": "Mot de passe",
+      "forgot": "Mot de passe oublié ?",
+      "show": "Afficher le mot de passe",
+      "hide": "Masquer le mot de passe"
+    },
+
+    "signIn": "Se connecter",
+
+    "orContinueWith": "Ou continuer avec",
+
+    "github": "GitHub",
+
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signUpFree": "Inscrivez-vous gratuitement"
+  },
+
+  "header": {
+    "newHere": "Nouveau ici ?",
+    "createAccount": "Créer un compte",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+    "hire": "Engagez-moi"
+  },
+
+  "footer": {
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "helpCenter": "Centre d'aide",
+    "title": "Tous droits réservés"
+  },
+
+  "about": {
+    "title": "À propos de moi",
+    "techKnowledge": "Compétences techniques",
+    "download": "Télécharger le CV",
+    "year": "Années d'expérience",
+    "projects": "Projets"
+  },
+
+  "notFound": {
+    "button": "Retour au début",
+    "title": "Page en construction, bientôt disponible.",
+    "subtitle": "Il semble que vous ayez atteint un vide numérique. Ne vous inquiétez pas, nos ingénieurs construisent ce pont en ce moment même."
+  },
+
+  "contact": {
+    "title": {
+      "line1": "Construisons le",
+      "line2": "futur ensemble."
+    },
+    "description": "Vous avez un projet en tête ou voulez simplement dire bonjour ? Je suis toujours ouvert à discuter de nouvelles opportunités et d'idées créatives.",
+    "email": {
+      "label": "E-mail"
+    },
+    "location": {
+      "label": "Localisation",
+      "value": "San Francisco, CA"
+    },
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "jean@email.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Proposition de projet",
+      "message": "Votre message",
+      "messagePlaceholder": "Comment puis-je vous aider ?",
+      "submit": "Envoyer le message"
+    }
+  },
+
+  "Projects": {
+    "title": "Projets",
+    "items": {
+      "portfolio": "Portfolio personnel développé avec Next.js et Tailwind CSS, mettant en avant des projets et une expertise technique.",
+      "ecommerce": "Concept de plateforme e-commerce avec paiement sécurisé, catalogue de produits et intégration de paiement.",
+      "dashboard": "Tableau de bord analytics avec métriques en temps réel et visualisations claires pour les décisions business."
+    }
+  }
+}
+

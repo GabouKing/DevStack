@@ -1,0 +1,93 @@
+{
+  "auth": {
+    "welcomeBack": "Bienvenido de nuevo",
+    "subtitle": "Introduce tus credenciales para acceder a tu portafolio de desarrollador",
+
+    "email": {
+      "label": "Correo electrónico",
+      "placeholder": "nombre@empresa.com"
+    },
+
+    "password": {
+      "label": "Contraseña",
+      "forgot": "¿Olvidaste tu contraseña?",
+      "show": "Mostrar contraseña",
+      "hide": "Ocultar contraseña"
+    },
+
+    "signIn": "Iniciar sesión",
+
+    "orContinueWith": "O continuar con",
+
+    "github": "GitHub",
+
+    "noAccount": "¿No tienes una cuenta?",
+    "signUpFree": "Regístrate gratis"
+  },
+
+  "header": {
+    "newHere": "¿Nuevo aquí?",
+    "createAccount": "Crear cuenta",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "hire": "Contrátame"
+  },
+
+  "footer": {
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio",
+    "helpCenter": "Centro de ayuda",
+    "title": "Todos los derechos reservados"
+  },
+
+  "about": {
+    "title": "Sobre mí",
+    "techKnowledge": "Stack tecnológico",
+    "download": "Descargar CV",
+    "year": "Años de experiencia",
+    "projects": "Proyectos"
+  },
+
+  "notFound": {
+    "button": "Volver al inicio",
+    "title": "Página en construcción, disponible pronto.",
+    "subtitle": "Parece que llegaste a un vacío digital. No te preocupes, nuestros ingenieros están construyendo este puente en este mismo momento."
+  },
+
+  "contact": {
+    "title": {
+      "line1": "Construyamos el",
+      "line2": "futuro juntos."
+    },
+    "description": "¿Tienes un proyecto en mente o simplemente quieres saludar? Siempre estoy abierto a hablar sobre nuevas oportunidades e ideas creativas.",
+    "email": {
+      "label": "Correo electrónico"
+    },
+    "location": {
+      "label": "Ubicación",
+      "value": "San Francisco, CA"
+    },
+    "form": {
+      "name": "Nombre completo",
+      "namePlaceholder": "Juan Pérez",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "juan@correo.com",
+      "subject": "Asunto",
+      "subjectPlaceholder": "Propuesta de proyecto",
+      "message": "Tu mensaje",
+      "messagePlaceholder": "¿Cómo puedo ayudarte?",
+      "submit": "Enviar mensaje"
+    }
+  },
+
+  "Projects": {
+    "title": "Proyectos",
+    "items": {
+      "portfolio": "Portafolio personal construido con Next.js y Tailwind CSS, mostrando proyectos seleccionados y experiencia técnica.",
+      "ecommerce": "Concepto de plataforma de comercio electrónico con checkout seguro, catálogo de productos e integración de pagos.",
+      "dashboard": "Panel de analytics con métricas en tiempo real y visualizaciones claras para insights de negocio."
+    }
+  }
+}
+

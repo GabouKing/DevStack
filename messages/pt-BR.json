@@ -1,0 +1,90 @@
+
+{
+  "auth": {
+    "welcomeBack": "Bem-vindo de volta",
+    "subtitle": "Digite suas credenciais para acessar seu portfólio de desenvolvedor",
+
+    "email": {
+      "label": "E-mail",
+      "placeholder": "nome@empresa.com"
+    },
+
+    "password": {
+      "label": "Senha",
+      "forgot": "Esqueceu a senha?",
+      "show": "Mostrar senha",
+      "hide": "Ocultar senha"
+    },
+
+    "signIn": "Entrar",
+
+    "orContinueWith": "Ou continue com",
+
+    "github": "GitHub",
+
+    "noAccount": "Não tem uma conta?",
+    "signUpFree": "Cadastre-se gratuitamente"
+  },
+
+  "header": {
+    "newHere": "Novo por aqui?",
+    "createAccount": "Criar conta",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "hire":"Contrate-me"
+  },
+
+  "footer": {
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "helpCenter": "Central de Ajuda",
+    "title":"Todos os direitos reservados"
+  },
+
+  "about": {
+    "title":"Sobre mim",
+    "techKnowledge":"Tecnologias Conhecidas",
+    "download":"Baixar Curriculo",
+    "year":"Anos de Experiência",
+    "projects":"Projetos"
+  } ,
+  "Projects": {
+    "title": "Projetos",
+    "items": {
+      "portfolio": "Portfólio pessoal desenvolvido com Next.js e Tailwind CSS, destacando projetos e experiência técnica.",
+      "ecommerce": "Conceito de plataforma de e-commerce com checkout seguro, catálogo de produtos e integração de pagamento.",
+      "dashboard": "Dashboard de analytics com métricas em tempo real e visualizações limpas para insights de negócio."
+    }
+  },
+  "notFound":{
+    "button":"Voltar ao Começo",
+    "title":"Página em construção, disponível em breve.",
+    "subtitle":"Parece que você chegou a um limbo digital. Não se preocupe, nossos engenheiros estão construindo essa ponte neste exato momento."
+  },
+  "contact": {
+    "title": {
+      "line1": "Vamos construir o",
+      "line2": "futuro juntos."
+    },
+    "description": "Tem um projeto em mente ou só quer dizer oi? Estou sempre aberto a conversar sobre novas oportunidades e ideias criativas.",
+    "email": {
+      "label": "Email"
+    },
+    "location": {
+      "label": "Localização",
+      "value": "São Francisco, CA"
+    },
+    "form": {
+      "name": "Nome Completo",
+      "namePlaceholder": "João Silva",
+      "email": "Endereço de Email",
+      "emailPlaceholder": "joao@email.com",
+      "subject": "Assunto",
+      "subjectPlaceholder": "Proposta de Projeto",
+      "message": "Sua Mensagem",
+      "messagePlaceholder": "Como posso te ajudar?",
+      "submit": "Enviar Mensagem"
+    }
+  }
+}
